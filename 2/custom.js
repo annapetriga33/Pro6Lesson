@@ -7,8 +7,8 @@ function words (d = 0) {
     
 }
 
-var sentence1 = '("' + words(22) + ', а не ' + words(12) + ')"' ;
-var sentence2 = '("' + words(30) + ', а не ' + words(4) + ')"' ;
+var sentence1 = '("' + words(22) + ', а не ' + words(12) + '"' ;
+var sentence2 = '("' + words(30) + ', а не ' + words(4) + '")' ;
 
 console.log(sentence1)
 console.log(sentence2)
